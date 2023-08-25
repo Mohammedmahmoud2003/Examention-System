@@ -1,0 +1,15 @@
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\bin\Debug\net6.0\Mainprog.exe
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\bin\Debug\net6.0\Mainprog.deps.json
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\bin\Debug\net6.0\Mainprog.runtimeconfig.json
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\bin\Debug\net6.0\Mainprog.dll
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\bin\Debug\net6.0\Mainprog.pdb
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.csproj.AssemblyReference.cache
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.AssemblyInfoInputs.cache
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.AssemblyInfo.cs
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.csproj.CoreCompileInputs.cache
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.dll
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\refint\Mainprog.dll
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.pdb
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\Mainprog.genruntimeconfig.cache
+C:\Route\sessions\AhmedNasr\Exam\Mainprog\obj\Debug\net6.0\ref\Mainprog.dll
